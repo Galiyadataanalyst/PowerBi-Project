@@ -30,11 +30,7 @@
 ## Структура проекта
 
 Sales_Analysis.pbix      — файл Power BI
-Dashboard.pdf           — экспорт отчёта
-SQL/
-    01_data_quality_check.sql
-docs/
-    Data_Quality_Check.pdf
-images/
-    dashboard_pages
+Dashboard.pdf            — экспорт отчёта
+01_data_quality_check.sql - Sql файл  с аудитом данных
+
 
